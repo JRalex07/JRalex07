@@ -1,9 +1,17 @@
 <!-- GitHub Profile README · JRalex07 -->
 
 <div align="center">
-  <h1>Raman Kumar Sharma <sub>(ALEX)</sub></h1>
-  <h3>Flutter &amp; React Developer · Full-Stack Development</h3>
-  <p>Building cross-platform applications, web products, and developer tools.</p>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:be185d&height=205&section=header&text=Raman%20Kumar%20Sharma&fontSize=34&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=ALEX%20%7C%20Flutter%20%26%20React%20Developer&descAlignY=59&descSize=15"
+    width="100%"
+    alt="Raman Kumar Sharma (ALEX) — Flutter and React Developer"
+  />
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=1000&color=DB2777&center=true&vCenter=true&width=650&lines=Building+cross-platform+applications;Creating+web+products+and+developer+tools;Creator+of+MetaMantle"
+    alt="Building cross-platform applications · Creating web products and developer tools · Creator of MetaMantle"
+  />
+
   <p>
     <a href="https://alex.runs-on.dev">Portfolio</a> ·
     <a href="https://www.linkedin.com/in/jralex07/">LinkedIn</a> ·
