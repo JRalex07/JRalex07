@@ -2,13 +2,13 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:be185d&height=205&section=header&text=Raman%20Kumar%20Sharma&fontSize=34&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=ALEX%20%7C%20Flutter%20%26%20React%20Developer&descAlignY=59&descSize=15"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:111827,50:312e81,100:be185d&amp;height=205&amp;section=header&amp;text=Raman%20Kumar%20Sharma&amp;fontSize=34&amp;fontColor=ffffff&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=ALEX%20%7C%20Flutter%20and%20React%20Developer&amp;descAlignY=59&amp;descSize=15"
     width="100%"
     alt="Raman Kumar Sharma (ALEX) — Flutter and React Developer"
   />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=1000&color=DB2777&center=true&vCenter=true&width=650&lines=Building+cross-platform+applications;Creating+web+products+and+developer+tools;Creator+of+MetaMantle"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=17&amp;duration=3200&amp;pause=1000&amp;color=DB2777&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+cross-platform+applications;Creating+web+products+and+developer+tools;Creator+of+MetaMantle"
     alt="Building cross-platform applications · Creating web products and developer tools · Creator of MetaMantle"
   />
 
@@ -67,7 +67,7 @@ I enjoy the full product-building process: understanding a problem, shaping the 
 ## Tools I work with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,vite,firebase,sqlite,python,cs,git,github&perline=6" alt="Flutter, Dart, React, TypeScript, JavaScript, Vite, Firebase, SQLite, Python, C sharp, Git and GitHub" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,vite,firebase,sqlite,python,cs,git,github&amp;perline=6" alt="Flutter, Dart, React, TypeScript, JavaScript, Vite, Firebase, SQLite, Python, C sharp, Git and GitHub" />
 </p>
 
 ## How I like to build
